@@ -1,4 +1,4 @@
-# ⚡ UEBA ML System for Real-Time Threat Detection
+# ⚡ ML System for Real-Time Threat Detection
 
 A cutting-edge machine learning initiative focused on **User and Entity Behavior Analytics (UEBA)**. This project identifies and flags anomalous activity in real time by learning from user behavior patterns—enhancing cybersecurity through actionable, data-driven insights.
 
