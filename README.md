@@ -1,6 +1,6 @@
-# ⚡ YakiAI – Smart UEBA ML System for Real-Time Threat Detection
+# ⚡ UEBA ML System for Real-Time Threat Detection
 
-A cutting-edge machine learning initiative focused on **User and Entity Behavior Analytics (UEBA)**. YakiAI identifies and flags anomalous activity in real time by learning from user behavior patterns—bolstering cybersecurity through actionable insights powered by AI.
+A cutting-edge machine learning initiative focused on **User and Entity Behavior Analytics (UEBA)**. This project identifies and flags anomalous activity in real time by learning from user behavior patterns—enhancing cybersecurity through actionable, data-driven insights.
 
 ---
 
@@ -66,4 +66,9 @@ Each model was fine-tuned to classify behavioral patterns efficiently and accura
 
 ---
 
+## 🛠️ Getting Started
 
+Clone the project and set up your environment to explore the full UEBA pipeline:
+
+```bash
+git clone https://github.com/your-repo/cybersecurity-ml-project.git
