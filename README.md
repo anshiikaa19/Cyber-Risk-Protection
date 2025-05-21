@@ -66,9 +66,3 @@ Each model was fine-tuned to classify behavioral patterns efficiently and accura
 
 ---
 
-## 🛠️ Getting Started
-
-Clone the project and set up your environment to explore the full UEBA pipeline:
-
-```bash
-git clone https://github.com/your-repo/cybersecurity-ml-project.git
